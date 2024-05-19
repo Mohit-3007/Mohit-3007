@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React & NextJs Projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react & nextJs**
 
 - 📫 How to reach me **mohitkhurana30@gmail.com**
 
